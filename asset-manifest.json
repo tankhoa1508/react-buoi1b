@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/app1/static/js/main.dbfe2af6.js",
-    "index.html": "/app1/index.html",
-    "main.dbfe2af6.js.map": "/app1/static/js/main.dbfe2af6.js.map"
+    "main.js": "/buoi1b/static/js/main.dbfe2af6.js",
+    "index.html": "/buoi1b/index.html",
+    "main.dbfe2af6.js.map": "/buoi1b/static/js/main.dbfe2af6.js.map"
   },
   "entrypoints": [
     "static/js/main.dbfe2af6.js"
